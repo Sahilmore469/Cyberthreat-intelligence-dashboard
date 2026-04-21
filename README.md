@@ -40,9 +40,13 @@
 
 | 🏠 Cover Page | 🌍 Global Overview |
 |:---:|:---:|
-| ![Cover](screenshots/cover.png) | ![Global](screenshots/global_overview.png) |
+| ![Cover](<img width="1434" height="804" alt="Screenshot 2026-04-21 234626" src="https://github.com/user-attachments/assets/669c647d-12a0-4694-9598-0efe4e0f84ab" />
+) | ![Global](<img width="1429" height="805" alt="Screenshot 2026-04-21 234650" src="https://github.com/user-attachments/assets/ad61ecdd-32ba-45b7-aabe-8e9eac5c6c6c" />
+) |
 | **⚔️ Attack Analysis** | **💥 Impact & Response** |
-| ![Attack](screenshots/attack_analysis.png) | ![Impact](screenshots/impact_response.png) |
+| ![Attack](<img width="1431" height="808" alt="Screenshot 2026-04-21 234707" src="https://github.com/user-attachments/assets/9778be3a-97a9-4120-a5fc-11f5277e52e5" />
+) | ![Impact](<img width="1431" height="805" alt="Screenshot 2026-04-21 234751" src="https://github.com/user-attachments/assets/7ea4c7b0-7781-401c-8b12-5526ddce6ac1" />
+) |
 
 </div>
 
