@@ -39,7 +39,6 @@
 <div align="center">
 
 | 🏠 Cover Page |
-|:---:|:---:|
 |<img width="1434" height="804" alt="Screenshot 2026-04-21 234626" src="https://github.com/user-attachments/assets/669c647d-12a0-4694-9598-0efe4e0f84ab" />
 |🌍 Global Overview |
 |<img width="1429" height="805" alt="Screenshot 2026-04-21 234650" src="https://github.com/user-attachments/assets/ad61ecdd-32ba-45b7-aabe-8e9eac5c6c6c" />
